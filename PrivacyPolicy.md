@@ -4,6 +4,8 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 No permissions required.
 
+Crash reports and language usage will be sent to the Microsoft App Center. This contains no personal or identifiable data.
+
 Yours Sincerely
 
 AyeTeaMan
